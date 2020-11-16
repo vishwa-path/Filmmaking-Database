@@ -13,3 +13,4 @@
 * **Cast Member**: Admin access to Cast Member, Movie with their unique member ID. View access to director and producer.
 * **Platform**: Admin access to Platform, and Movie with their unique platform ID to update number of users and profiles. View access to director and producer.
 ## ER diagram
+![Untitled Diagram (24)](https://user-images.githubusercontent.com/60057580/99275478-90b25380-2851-11eb-987b-d1cb4e83df58.png)
