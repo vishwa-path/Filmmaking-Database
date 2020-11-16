@@ -6,9 +6,9 @@
 * The director approaches a producer to fund the film. Every director has a certain number of assistant directors under him/her and every producer has a certain number of executive producers under him/her.
 * The producer goes through the story and discusses the requirements of the script with the director, and drafts a budget for the film. The budget of the film has to take care of the production cost, cast and crew cost, and the director’s cost. The producer takes a term loan from a financer with an interest.
 ## Stakeholders and their Access Level
-* Director: Admin access to Director, Movie and Producers with their unique director ID. View access to cast and crew members.
-* Producer: Admin access to Producer, budget, Financier, Director with their unique producer ID. View access to movie, and platform.
-* Financier: Admin access to Financier, Producer with their unique financier ID. View access to movie, and platform.
-* Crew Member: Admin access to Crew Member, Movie with their unique member ID. View access to director and producer.
-* Cast Member: Admin access to Cast Member, Movie with their unique member ID. View access to director and producer.
-* Platform: Admin access to Platform, and Movie with their unique platform ID to update number of users and profiles. View access to director and producer.
+* **Director**: Admin access to Director, Movie and Producers with their unique director ID. View access to cast and crew members.
+* **Producer**: Admin access to Producer, budget, Financier, Director with their unique producer ID. View access to movie, and platform.
+* **Financier**: Admin access to Financier, Producer with their unique financier ID. View access to movie, and platform.
+* **Crew Member**: Admin access to Crew Member, Movie with their unique member ID. View access to director and producer.
+* **Cast Member**: Admin access to Cast Member, Movie with their unique member ID. View access to director and producer.
+* **Platform**: Admin access to Platform, and Movie with their unique platform ID to update number of users and profiles. View access to director and producer.
