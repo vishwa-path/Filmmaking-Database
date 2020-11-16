@@ -12,3 +12,4 @@
 * **Crew Member**: Admin access to Crew Member, Movie with their unique member ID. View access to director and producer.
 * **Cast Member**: Admin access to Cast Member, Movie with their unique member ID. View access to director and producer.
 * **Platform**: Admin access to Platform, and Movie with their unique platform ID to update number of users and profiles. View access to director and producer.
+## ER diagram
