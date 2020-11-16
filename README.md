@@ -1,5 +1,5 @@
-# Filmmaking-Database
-###Problem Statement
+# Filmmaking Database
+##Problem Statement
 The process of filmmaking takes a lot of precise planning and management. A movie is categorized on the basis of several components like it’s title, starting date of shoot, estimated number of days of shoot,  release date, and genre. The top genres are action, drama, comedy, horror, thriller, romance, crime, adventure, and animated. 
 <br>
 Primarily there are three roles that impact the outcome of a film, the director, producer, and the financier. Then there’s the cast and crew which includes music directors, editors, DOPs, and actors. The cast is divided based on their gender, and age. Every person involved in filmmaking has a CPF (Cost per Film).
